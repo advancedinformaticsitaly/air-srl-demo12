@@ -1,0 +1,4 @@
+[submodule "advancedinformaticsitaly/pm"]
+	path = advancedinformaticsitaly/pm
+	url = git@github.com:advancedinformaticsitaly/pm.git
+	branch = master
